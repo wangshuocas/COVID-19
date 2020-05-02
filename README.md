@@ -6,7 +6,7 @@ This project is currently under maintenance, further revisions will be uploaded 
 
 Dependencies:
 
-Python                             3.6
+Python                             3.7.4
 
 tensorflow-gpu                     2.0.0
 
