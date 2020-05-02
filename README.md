@@ -6,6 +6,8 @@ This project is currently under maintenance, further revisions will be uploaded 
 
 Dependencies:
 
+Python                             3.6
+
 tensorflow-gpu                     2.0.0
 
 Keras                              2.3.1 
